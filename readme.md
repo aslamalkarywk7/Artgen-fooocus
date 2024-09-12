@@ -126,7 +126,7 @@ Also, [click here to browse the advanced features.](https://github.com/lllyasvie
 
 | Colab | معلومات
 | --- | --- |
-[![فتح في Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lllyasviel/artgen/blob/main/artgen_colab.ipynb) | artgen Official
+[![فتح في Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BKdoDwvupObQlYDWysgmeQYYg53urfYk?usp=sharing) | artgen Official
 
 في Colab، يمكنك تعديل السطر الأخير إلى `!python entry_with_update.py --share --always-high-vram` أو `!python entry_with_update.py --share --always-high-vram --preset anime` أو `!python entry_with_update.py --share --always-high-vram --preset realistic` لإصدار artgen الافتراضي/الأنيمي/الواقعي.
 
@@ -142,7 +142,7 @@ Also, [click here to browse the advanced features.](https://github.com/lllyasvie
 
 إذا كنت تريد استخدام Anaconda/Miniconda، يمكنك
 
-git clone https://github.com/lllyasviel/fooocus.git
+git clone https://github.com/aslamalkarywk7/Artgen-fooocus.git
 cd artgen
 conda env create -f Environment.yaml
 conda activate artgen
@@ -164,7 +164,7 @@ python entry_with_update.py --listen
 
 يجب أن يكون نظام Linux لديك مثبتًا عليه **Python 3.10**، ولنقل أنه يمكن استدعاء Python باستخدام الأمر **python3** مع تشغيل نظام venv الخاص بك؛ يمكنك
 
-git clone https://github.com/lllyasviel/fooocus.git
+git clone https://github.com/aslamalkarywk7/Artgen-fooocus.git
 cd artgen
 python3 -m venv artgen_env
 source artgen_env/bin/activate
